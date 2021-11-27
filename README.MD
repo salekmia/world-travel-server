@@ -13,3 +13,11 @@ Frontend or react github code link [Frontend code](https://github.com/programmin
 * Cors
 * Heroku
 * Github
+
+<h2 align="center">Features</h2>
+
+* Allowing users to create accounts, browse packages, book packages and manage all
+services that he booked. Users also delete services from his booking services.
+* There are options for admin to add services and manage services.
+* Users will be able to know about the services by visiting the about page and contact with
+manager or admin by visiting the contact us page.
